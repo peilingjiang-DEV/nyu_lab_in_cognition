@@ -16,6 +16,7 @@ docutils==0.16
 entrypoints==0.3
 filelock==3.0.12
 idna==2.10
+ipycanvas==0.8.2
 ipykernel==5.5.0
 ipyparallel==6.3.0
 ipython==7.21.0
@@ -47,6 +48,7 @@ nest-asyncio==1.5.1
 nibabel==3.2.1
 notebook==6.2.0
 numpy==1.20.1
+orjson==3.5.1
 outdated==0.2.1
 packaging==20.9
 pandas==1.2.3
@@ -57,7 +59,7 @@ patsy==0.5.1
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==8.1.2
-pingouin==0.3.10
+pingouin==0.3.11
 prometheus-client==0.9.0
 prompt-toolkit==3.0.17
 ptyprocess==0.7.0
